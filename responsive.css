@@ -1,0 +1,106 @@
+@media only screen and (max-width: 1140px){
+
+
+    #logo{
+        margin: 4px 7px;
+    }
+
+    #logo img{
+        margin: 0px 0px;
+        height: 50px;
+    }
+
+    .navbar{
+        display: flex;
+        flex-direction: column;
+    }
+
+    #navbar{
+        flex-direction: column;
+        margin: 8px 0px;
+    }
+    .tag-line{
+        font-size: 42px;
+    }
+    .subtag-line{
+        padding: 10px 25px;
+        font-size: 16px;
+        line-height: 22px;
+        /* font-style: italic; */
+        font-weight: normal;
+    }
+    .hr1{
+        display: none;
+    }
+    .itm-resp2{
+        width: 320px;
+        border-radius: 20px;
+        height: 300px;
+        margin: 20px auto;
+        padding: 26px 0px;
+        background-color: #f77206e5;
+        color: white;
+    }
+    .lists{
+        display: flex;
+        flex-direction: column;
+        padding: 5px 0px;
+    }
+    .itm-resp{
+        width: 320px;
+        background-color: whitesmoke;
+        border-radius: 20px;
+        height: 300px;
+        margin: 20px auto;
+        padding: 26px 0px;
+    }
+
+    .lines{
+        font-size: 16px;
+        line-height: 20px;
+        letter-spacing: 1px;
+    }
+
+    .top{
+        color: white;
+        background-color:#0972c7;
+        padding: 8px 10px;
+        left: 320px;
+        bottom: 62px;
+     }
+ 
+     .clients{
+         width: 74%;
+         margin: 0px auto;
+         height: 83vh;
+         padding: 30px 40px;
+         margin-top: 900px;
+     }
+
+     .services{
+        height: 45vh;
+     }
+
+     .images img{
+        padding: 30px 40px;
+        height: 60px;
+     }
+
+     .contact{
+        margin-top: -20px;
+        height: 50vh;
+     }
+     .form{
+        width: 65vw;
+     } 
+     .btn2{
+        width: 50%;
+     }
+     .footer p{
+        font-size: 14px;
+        text-align: center;
+        position: relative;
+        right: 22px;
+     }
+    }
+    
